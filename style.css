@@ -110,7 +110,7 @@ body {
       display: none;
     }
     .sign-up {
-      margin-right: 30px;
+      display: none;
     }
     .main-section h1 {
       font-size: 30px;
